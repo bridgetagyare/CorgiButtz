@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>About</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+  </head>
+  <body bgcolor=#FFF0F5>
+		
+		<ul>
+		  <li><a href="corgicon.html">Corgi Con</a></li>
+		  <li><a href="buyingcorgis.html">Buying a Corgi</a></li>
+		  <li><a href="aboutcorgis.html">About Corgis</a></li>
+		  <li><a href="index.html">Home</a></li>
+		</ul>
+		
+	<div class="facts">
+		Here are some quick facts about Corgis!
+		<br>
+		Hypoallergenic: No
+		<br>
+		Life span: 12 – 14 years
+		<br>
+		Temperament: Tenacious, Bold, Outgoing, Playful, Friendly, Protective
+		<br>
+		Weight: Male: 22–31 lbs (10–14 kg), Female: 22–29 lbs (10–13 kg)
+		<br>
+		Colors: Black & Gold, Blue Belton, Fawn, Sable, Tan, Blue
+		<br>
+		Height: Male: 10–12 inches (25–30 cm), Female: 10–12 inches (25–30 cm)
+		<br>
+		<a href="https://marketplace.akc.org/puppies/pembroke-welsh-corgi" target="_blank">Buy a Corgi Here!!</a>
+		<br>
+		<a href="corgi2.html" >Next page...</a>
+	</div>
+	
+	<img src="https://cdn1.lockerdome.com/uploads/bdd4db418b994ce5d5f9c95404b20a8b345dd2e387f459c0fda7baf046568cd4_large" alt="Trulli" width="850" height="550">
+
+  </body>
+</html>
